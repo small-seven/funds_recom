@@ -1,0 +1,1 @@
+This repo is used to give a simple fund investment recommendation.
